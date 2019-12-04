@@ -94,3 +94,13 @@ body {
     height: 49%;
     width: 2px;
 }
+
+.clock .credit {
+    font-size: 11px;
+    text-align: center;;
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    text-transform: uppercase;
+    transform: translate(-50%);
+}
